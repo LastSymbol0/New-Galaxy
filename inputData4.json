@@ -1,0 +1,488 @@
+{
+	"ship":
+	{
+		"maxCarryingCapacity":
+		{
+			"half_x": 639,
+			"half_y": 323,
+			"half_z": 212
+		},
+		"maxResourcesWeight": 157.41000366210938,
+		"maxCarryingWeight": 480.8900146484375,
+		"resourcesConsumption": 0.34000000357627869
+	},
+	"targetPoints": [
+		{
+			"x": 4,
+			"y": -30,
+			"z": 47,
+			"pointId": 0
+		},
+		{
+			"x": 66,
+			"y": -56,
+			"z": 35,
+			"pointId": 66
+		},
+		{
+			"x": -44,
+			"y": -24,
+			"z": 11,
+			"pointId": 934
+		},
+		{
+			"x": 75,
+			"y": -28,
+			"z": 64,
+			"pointId": 413
+		},
+		{
+			"x": -18,
+			"y": 60,
+			"z": 71,
+			"pointId": 618
+		},
+		{
+			"x": -38,
+			"y": 40,
+			"z": -29,
+			"pointId": 990
+		},
+		{
+			"x": -39,
+			"y": 93,
+			"z": 79,
+			"pointId": 779
+		},
+		{
+			"x": -60,
+			"y": 11,
+			"z": -80,
+			"pointId": 693
+		},
+		{
+			"x": -18,
+			"y": -88,
+			"z": -36,
+			"pointId": 343
+		}
+	],
+	"boxes": [
+		{
+			"half_x": 15,
+			"half_y": 33,
+			"half_z": 21,
+			"weight": 14.289999961853027,
+			"targetPointId": 990,
+			"boxId": 511
+		},
+		{
+			"half_x": 49,
+			"half_y": 35,
+			"half_z": 37,
+			"weight": 31.989999771118164,
+			"targetPointId": 990,
+			"boxId": 575
+		},
+		{
+			"half_x": 12,
+			"half_y": 32,
+			"half_z": 42,
+			"weight": 32.799999237060547,
+			"targetPointId": 413,
+			"boxId": 343
+		},
+		{
+			"half_x": 39,
+			"half_y": 40,
+			"half_z": 20,
+			"weight": 44.159999847412109,
+			"targetPointId": 66,
+			"boxId": 841
+		},
+		{
+			"half_x": 21,
+			"half_y": 33,
+			"half_z": 39,
+			"weight": 23.209999084472656,
+			"targetPointId": 66,
+			"boxId": 75
+		},
+		{
+			"half_x": 41,
+			"half_y": 7,
+			"half_z": 2,
+			"weight": 37.209999084472656,
+			"targetPointId": 934,
+			"boxId": 61
+		},
+		{
+			"half_x": 40,
+			"half_y": 38,
+			"half_z": 7,
+			"weight": 32.759998321533203,
+			"targetPointId": 618,
+			"boxId": 798
+		},
+		{
+			"half_x": 35,
+			"half_y": 24,
+			"half_z": 27,
+			"weight": 21.510000228881836,
+			"targetPointId": 66,
+			"boxId": 282
+		},
+		{
+			"half_x": 47,
+			"half_y": 48,
+			"half_z": 1,
+			"weight": 25.180000305175781,
+			"targetPointId": 618,
+			"boxId": 78
+		},
+		{
+			"half_x": 17,
+			"half_y": 47,
+			"half_z": 6,
+			"weight": 19.510000228881836,
+			"targetPointId": 779,
+			"boxId": 235
+		},
+		{
+			"half_x": 49,
+			"half_y": 17,
+			"half_z": 14,
+			"weight": 45.75,
+			"targetPointId": 990,
+			"boxId": 91
+		},
+		{
+			"half_x": 19,
+			"half_y": 6,
+			"half_z": 2,
+			"weight": 40.459999084472656,
+			"targetPointId": 343,
+			"boxId": 390
+		},
+		{
+			"half_x": 34,
+			"half_y": 37,
+			"half_z": 26,
+			"weight": 6.929999828338623,
+			"targetPointId": 934,
+			"boxId": 734
+		},
+		{
+			"half_x": 14,
+			"half_y": 21,
+			"half_z": 17,
+			"weight": 24.319999694824219,
+			"targetPointId": 934,
+			"boxId": 341
+		},
+		{
+			"half_x": 25,
+			"half_y": 20,
+			"half_z": 30,
+			"weight": 18.159999847412109,
+			"targetPointId": 66,
+			"boxId": 62
+		},
+		{
+			"half_x": 39,
+			"half_y": 30,
+			"half_z": 20,
+			"weight": 4.25,
+			"targetPointId": 693,
+			"boxId": 124
+		},
+		{
+			"half_x": 7,
+			"half_y": 10,
+			"half_z": 20,
+			"weight": 2.5199999809265137,
+			"targetPointId": 66,
+			"boxId": 890
+		},
+		{
+			"half_x": 10,
+			"half_y": 32,
+			"half_z": 31,
+			"weight": 26.870000839233398,
+			"targetPointId": 990,
+			"boxId": 563
+		},
+		{
+			"half_x": 34,
+			"half_y": 15,
+			"half_z": 1,
+			"weight": 13.659999847412109,
+			"targetPointId": 343,
+			"boxId": 899
+		},
+		{
+			"half_x": 2,
+			"half_y": 7,
+			"half_z": 36,
+			"weight": 30.969999313354492,
+			"targetPointId": 413,
+			"boxId": 231
+		},
+		{
+			"half_x": 19,
+			"half_y": 9,
+			"half_z": 22,
+			"weight": 44.880001068115234,
+			"targetPointId": 779,
+			"boxId": 104
+		},
+		{
+			"half_x": 8,
+			"half_y": 11,
+			"half_z": 25,
+			"weight": 7.6599998474121094,
+			"targetPointId": 618,
+			"boxId": 129
+		},
+		{
+			"half_x": 39,
+			"half_y": 36,
+			"half_z": 6,
+			"weight": 8.5600004196166992,
+			"targetPointId": 66,
+			"boxId": 17
+		},
+		{
+			"half_x": 17,
+			"half_y": 3,
+			"half_z": 21,
+			"weight": 5.4899997711181641,
+			"targetPointId": 934,
+			"boxId": 666
+		},
+		{
+			"half_x": 40,
+			"half_y": 21,
+			"half_z": 16,
+			"weight": 1.0199999809265137,
+			"targetPointId": 990,
+			"boxId": 344
+		},
+		{
+			"half_x": 23,
+			"half_y": 5,
+			"half_z": 24,
+			"weight": 9.8199996948242188,
+			"targetPointId": 343,
+			"boxId": 43
+		},
+		{
+			"half_x": 24,
+			"half_y": 14,
+			"half_z": 13,
+			"weight": 11.840000152587891,
+			"targetPointId": 343,
+			"boxId": 577
+		},
+		{
+			"half_x": 38,
+			"half_y": 10,
+			"half_z": 2,
+			"weight": 43.930000305175781,
+			"targetPointId": 66,
+			"boxId": 631
+		},
+		{
+			"half_x": 14,
+			"half_y": 26,
+			"half_z": 38,
+			"weight": 25.850000381469727,
+			"targetPointId": 343,
+			"boxId": 308
+		},
+		{
+			"half_x": 36,
+			"half_y": 29,
+			"half_z": 22,
+			"weight": 30.879999160766602,
+			"targetPointId": 618,
+			"boxId": 438
+		},
+		{
+			"half_x": 20,
+			"half_y": 38,
+			"half_z": 46,
+			"weight": 19.780000686645508,
+			"targetPointId": 618,
+			"boxId": 618
+		},
+		{
+			"half_x": 10,
+			"half_y": 44,
+			"half_z": 8,
+			"weight": 8.9099998474121094,
+			"targetPointId": 413,
+			"boxId": 250
+		},
+		{
+			"half_x": 10,
+			"half_y": 25,
+			"half_z": 49,
+			"weight": 17.659999847412109,
+			"targetPointId": 779,
+			"boxId": 379
+		},
+		{
+			"half_x": 40,
+			"half_y": 12,
+			"half_z": 4,
+			"weight": 43.279998779296875,
+			"targetPointId": 693,
+			"boxId": 559
+		},
+		{
+			"half_x": 45,
+			"half_y": 48,
+			"half_z": 10,
+			"weight": 1.2100000381469727,
+			"targetPointId": 343,
+			"boxId": 821
+		},
+		{
+			"half_x": 30,
+			"half_y": 30,
+			"half_z": 33,
+			"weight": 35.290000915527344,
+			"targetPointId": 66,
+			"boxId": 853
+		},
+		{
+			"half_x": 44,
+			"half_y": 44,
+			"half_z": 4,
+			"weight": 35.130001068115234,
+			"targetPointId": 413,
+			"boxId": 196
+		},
+		{
+			"half_x": 3,
+			"half_y": 17,
+			"half_z": 36,
+			"weight": 45.479999542236328,
+			"targetPointId": 693,
+			"boxId": 368
+		},
+		{
+			"half_x": 43,
+			"half_y": 10,
+			"half_z": 14,
+			"weight": 11.439999580383301,
+			"targetPointId": 693,
+			"boxId": 894
+		},
+		{
+			"half_x": 6,
+			"half_y": 12,
+			"half_z": 36,
+			"weight": 8.619999885559082,
+			"targetPointId": 934,
+			"boxId": 901
+		},
+		{
+			"half_x": 43,
+			"half_y": 28,
+			"half_z": 40,
+			"weight": 10.090000152587891,
+			"targetPointId": 693,
+			"boxId": 851
+		},
+		{
+			"half_x": 30,
+			"half_y": 46,
+			"half_z": 45,
+			"weight": 45.669998168945313,
+			"targetPointId": 66,
+			"boxId": 772
+		},
+		{
+			"half_x": 33,
+			"half_y": 19,
+			"half_z": 6,
+			"weight": 42.729999542236328,
+			"targetPointId": 413,
+			"boxId": 586
+		},
+		{
+			"half_x": 26,
+			"half_y": 48,
+			"half_z": 17,
+			"weight": 5.1500000953674316,
+			"targetPointId": 779,
+			"boxId": 527
+		},
+		{
+			"half_x": 23,
+			"half_y": 12,
+			"half_z": 9,
+			"weight": 29.829999923706055,
+			"targetPointId": 66,
+			"boxId": 721
+		},
+		{
+			"half_x": 39,
+			"half_y": 25,
+			"half_z": 21,
+			"weight": 27.159999847412109,
+			"targetPointId": 693,
+			"boxId": 483
+		},
+		{
+			"half_x": 15,
+			"half_y": 38,
+			"half_z": 17,
+			"weight": 3.4100000858306885,
+			"targetPointId": 934,
+			"boxId": 321
+		},
+		{
+			"half_x": 35,
+			"half_y": 38,
+			"half_z": 34,
+			"weight": 27.540000915527344,
+			"targetPointId": 779,
+			"boxId": 701
+		},
+		{
+			"half_x": 22,
+			"half_y": 19,
+			"half_z": 20,
+			"weight": 13.029999732971191,
+			"targetPointId": 934,
+			"boxId": 906
+		},
+		{
+			"half_x": 37,
+			"half_y": 18,
+			"half_z": 16,
+			"weight": 42.319999694824219,
+			"targetPointId": 934,
+			"boxId": 492
+		},
+		{
+			"half_x": 30,
+			"half_y": 14,
+			"half_z": 5,
+			"weight": 21.700000762939453,
+			"targetPointId": 413,
+			"boxId": 462
+		},
+		{
+			"half_x": 12,
+			"half_y": 29,
+			"half_z": 36,
+			"weight": 16.090000152587891,
+			"targetPointId": 990,
+			"boxId": 29
+		}
+	]
+}
